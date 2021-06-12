@@ -1,0 +1,26 @@
+.bg-green{
+    background: #2a9d87 !important;
+    color: #fff !important;
+}
+.float-right{
+justify-content: flex-end; 
+}
+.rating{
+color: #2a9d87;
+}
+.nonrating{
+    color: grey;
+}
+.card-body h2{
+  font-size:1.4rem !important;  
+}
+.book-btn{
+    width:7rem;
+}
+td{
+    font-weight:bold;
+}
+.contact{
+    font-weight: normal;
+}
+
