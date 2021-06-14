@@ -23,4 +23,7 @@ td{
 .contact{
     font-weight: normal;
 }
+.carousel-inner{
+    height: 90vh;
+}
 
